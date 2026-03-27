@@ -20,6 +20,9 @@ public class register {
         this.password = password;
         this.email = email;
     }
+
+
+    // Ce commentaire est ajouté pour simuler un conflit de merge
     
     // Méthodes getters et setters
     public String getUsername() {
